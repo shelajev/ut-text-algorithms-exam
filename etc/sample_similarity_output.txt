@@ -1,0 +1,144 @@
+Checking joke 9, top similar jokes: 
+[(1783, 0.5148430114409129), (173, 0.5124272542151035), (255, 0.507759724914451), (1831, 0.41399150011546115)]
+============================
+AERONAUTICS
+
+
+  A flea and a fly in a flue,
+  Were imprisoned; now what could they do?
+    Said the fly, "let us flee."
+    "Let us fly," said the flea,
+  And they flew through a flaw in the flue.
+
+
+The impression that men will never fly like birds seems to be
+aeroneous.--_La Touche Hancock_.
+
+
+
+
+============================
+Joke 1783 has similarity rating 0.514843011441:
+NEW CAUSE OF IMPRISONMENT.
+
+
+A COUNSEL having been retained to oppose a person justifying bail in the
+Court of King's Bench, after asking some common-place questions, was
+getting rather aground, when a waggish brother, sitting behind,
+whispered him to interrogate the bail as to his having been a prisoner
+in Gloucester gaol. Thus instructed, our learned advocate boldly asked,
+"When, Sir, were you last in Gloucester gaol?" The bail, a reputable
+tradesman, with astonishment declared that he never was in a gaol in his
+life. The counsel persisted; but not being able to get any thing more
+out of him, turned round and asked his friendly brother, for what the
+man had been imprisoned? The answer was, "_For suicide_." Without
+hesitation, he then questioned him thus: "Now, Sir, I ask you on your
+oath, and remember I shall have your words taken down, were you not
+_imprisoned_ in Gloucester gaol _for the crime of suicide_?"
+
+
+
+============================
+Joke 173 has similarity rating 0.512427254215:
+COWS
+
+
+Little Willie, being a city boy, had never seen a cow. While on a visit
+to his grandmother he walked out across the fields with his cousin John.
+A cow was grazing there, and Willie's curiosity was greatly excited.
+
+"Oh, Cousin John, what is that?" he asked.
+
+"Why, that is only a cow," John replied.
+
+"And what are those things on her head?"
+
+"Horns," answered John.
+
+Before they had gone far the cow mooed long and loud.
+
+Willie was astounded. Looking back, he demanded, in a very fever of
+interest:
+
+"Which horn did she blow?"
+
+
+   There was an old man who said, "How
+   Shall I flee from this horrible cow?
+     I will sit on this stile
+     And continue to smile,
+   Which may soften the heart of that cow."
+
+
+
+
+============================
+Joke 255 has similarity rating 0.507759724914:
+FATE
+
+
+  Fate hit me very hard one day.
+  I cried: "What is my fault?
+  What have I done? What causes, pray,
+  This unprovoked assault?"
+  She paused, then said: "Darned if I know;
+  I really can't explain."
+  Then just before she turned to go
+  She whacked me once again!
+
+  --_La Touche Hancock_.
+
+
+  So in the Libyan fable it is told
+  That once an eagle stricken with a dart,
+  Said, when he saw the fashion of the shaft,
+  "With our own feathers, not by others' hands,
+  Are we now smitten."
+
+  --_Aeschylus_.
+
+
+
+
+============================
+Joke 1831 has similarity rating 0.413991500115:
+FROM PHOENIXIANA.
+
+
+THE following recipe from the writings of Miss Hannah More, may be found
+useful to your readers:
+
+In a climate where the attacks of fleas are a constant source of
+annoyance, any method which will alleviate them becomes a _desideratum_.
+It is, therefore, with pleasure I make known the following recipe, which
+I am assured has been tried with efficacy.
+
+Boil a quart of tar until it becomes quite thin. Remove the clothing,
+and before the tar becomes perfectly cool, with a broad flat brush,
+apply a thin, smooth coating to the entire surface of the body and
+limbs. While the tar remains soft, the flea becomes entangled in its
+tenacious folds, and is rendered perfectly harmless; but it will soon
+form a hard, smooth coating, entirely impervious to his bite. Should the
+coating crack at the knee or elbow joints, it is merely necessary to
+retouch it slightly at those places. The whole coat should be renewed
+every three or four weeks. This remedy is sure, and having the advantage
+of simplicity and economy, should be generally known.
+
+So much for Miss More. A still simpler method of preventing the attacks
+of these little pests, is one which I have lately discovered myself;--in
+theory only--I have not yet put it into practice. On feeling the bite of
+the flea, thrust the part bitten immediately into boiling water. The
+heat of the water destroys the insect and instantly removes the pain of
+the bite.
+
+You have probably heard of old Parry Dox. I met him here a few days
+since, in a sadly seedy condition. He told me that he was still
+extravagantly fond of whiskey, though he was constantly "running it
+down." I inquired after his wife. "She is dead, poor creature," said he,
+"and is probably far better off than ever she was here. She was a
+seamstress, and her greatest enjoyment of happiness in this world was
+only so, so."
+
+
+
+============================
