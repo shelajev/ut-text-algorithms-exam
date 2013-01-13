@@ -1,0 +1,13 @@
+ZONES
+
+
+TEACHER--"How many zones has the earth?"
+
+PUPIL--"Five."
+
+TEACHER--"Correct. Name them."
+
+PUPIL--"Temperate zone, intemperate, canal, horrid, and o."--_Life_.
+
+
+

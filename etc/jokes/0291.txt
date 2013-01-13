@@ -1,0 +1,10 @@
+FURNITURE
+
+
+GUEST--"That's a beautiful rug. May I ask how much it cost you?"
+
+HOST--"Five hundred dollars. A hundred and fifty for it and the rest for
+furniture to match."
+
+
+

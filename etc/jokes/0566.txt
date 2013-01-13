@@ -1,0 +1,12 @@
+SHOPPING
+
+
+CLERK--"Can you let me off to-morrow afternoon? My wife wants me to go
+shopping with her."
+
+EMPLOYER--"Certainly not. We are much too busy."
+
+CLERK--"Thank you very much, sir. You are very kind!"
+
+
+
